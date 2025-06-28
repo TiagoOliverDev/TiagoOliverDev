@@ -5,12 +5,17 @@ on:
     - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # Permissão para push
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # garante token para checkout
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -26,3 +31,4 @@ jobs:
           author_email: snake@bot.com
           message: "generated snake"
           add: "dist/github-contribution-grid-snake.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}   # token para push
