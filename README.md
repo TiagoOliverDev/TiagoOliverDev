@@ -72,7 +72,7 @@
 ### 🐍 Snake de Contribuições
 
 <p align="center">
-  <img src="https://github.com/TiagoOliverDev/TiagoOliverDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TiagoOliverDev/TiagoOliverDev/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
