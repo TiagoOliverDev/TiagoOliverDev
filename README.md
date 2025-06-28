@@ -2,7 +2,7 @@
 <h3 align="center">Analista Desenvolvedor com foco em Python, RPA, Engenharia de Dados com IA e LLMs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Automação+%7C+Bots+%7C+IA+%7C+RPA+%7C+Engenharia+de+Dados;Pythonista+que+ama+resolver+problemas+reais!;FastAPI+%2F+Airflow+%2F+AWS+%2F+LLMs+%2F+Scraping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Automação+%7C+Bots+%7C+IA+%7C+RPA+%7C+Engenharia+de+Dados;Pythonista+que+ama+resolver+problemas+reais!;FastAPI+%2F+Airflow+%2F+AWS+%2F+LLMs+%2F+Scraping" />
 </p>
 
 ---
@@ -71,9 +71,9 @@
 
 ### 🐍 Snake de Contribuições
 
-<div align="center">
-  ![Snake animation](https://github.com/TiagoOliverDev/TiagoOliverDev/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/TiagoOliverDev/TiagoOliverDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
